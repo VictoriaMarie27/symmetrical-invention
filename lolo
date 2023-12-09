@@ -1,0 +1,25 @@
+<style>
+  body {
+    background-color: #f0f0f0;
+  }
+
+  .geometric-pattern {
+    width: 20px;
+    height: 20px;
+    background-color: #3498db;
+    float: left;
+  }
+
+  .even-row {
+    margin-left: 10px;
+  }
+</style>
+
+<div class="geometric-pattern"></div>
+<div class="geometric-pattern"></div>
+<div class="geometric-pattern even-row"></div>
+<div class="geometric-pattern"></div>
+<div class="geometric-pattern"></div>
+<div class="geometric-pattern even-row"></div>
+<div class="geometric-pattern"></div>
+<div class="geometric-pattern"></div>
